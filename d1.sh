@@ -8,6 +8,6 @@ do
    echo "$i"
    # or do whatever with individual element of the array
 done
-echo "hai"
+echo "hai,how are you"
 
 # You can access them using echo "${arr[0]}", "${arr[1]}" also
